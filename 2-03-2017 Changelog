@@ -1,3 +1,11 @@
+=== Dynasty Network Development ===
+This is property of Dynasty Network
+Everything has been copyrighted
+Anyone catched with sharing scripts
+of Dynasty Network will be punished.
+DN:RPG 2017 - MTA SA server
+===================================
+
 - Added export getAvailableSpots(player, Adress) : This has been added to get the available carspots within your garage.Currently used within the Carshop
 - Added Vehicles Tab in the organisation system : Here you can manage the organisation vehicles, this can only be used by the ranks that the leader have set to allowed this.
 - dxDrawGridList updated : Now the system has been edited so that you can edit everything from selectioncolor, to textcolor and even backgroundcolor.
