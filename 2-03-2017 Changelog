@@ -1,1 +1,1 @@
-- Under contruction
+- Added export getAvailableSpots(player, Adress) : This has been added to get the available carspots within your garage.Currently used within the Carshop
