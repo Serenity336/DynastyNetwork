@@ -1,0 +1,28 @@
+=== Dynasty Network Development ===
+This is property of Dynasty Network
+Everything has been copyrighted
+Anyone catched with sharing scripts
+of Dynasty Network will be punished.
+DN:RPG 2017 - MTA SA server
+===================================
+
+Added to the game :
+- export getMonthlyIncome (player, username) - gets the player monthly outgoing money from the transaction logs
+- export getMonthlyOutgoing (player, username) - gets the player monthly outgoing money from the transaction logs
+- export getMonthlySavingsDeposit (player, username ) - gets the total ammount of deposited money on the Savings account
+- export getMonthlySavingsWithdraw (player, username) - get the total ammount of withdrawed money on the savings account this month
+- Fixed housing issue where Interior isn't set correctly when entering the garage
+- Fixed banking showing one profile picture only, only the first account of the panel
+- Added Vehicles Tab to Gang UCP (Still in progress)
+
+To Be done later today before 23:00:
+- Finish Vehicles Tab in gang UCP
+- Finish buying vehicles for organisations in the carshop
+- Finish tase animation for the police script with teleport to nearest jail
+- Add atm points within SA for the banking panel
+- Fix members tab within organisation UCP
+- add help section within UCP
+- add Profile tab within UCP
+- Start creation administration panel
+
+-- Further suggestions will be reviewed and later on added if accepted
